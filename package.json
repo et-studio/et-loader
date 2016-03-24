@@ -1,0 +1,25 @@
+{
+  "name": "et-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for et-template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/et-studio/et-loader.git"
+  },
+  "keywords": [
+    "et",
+    "template",
+    "loader"
+  ],
+  "author": "suyu34",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/et-studio/et-loader/issues"
+  },
+  "homepage": "https://github.com/et-studio/et-loader#readme",
+  "dependencies": {
+    "et-template": "^0.3.7",
+    "loader-utils": "^0.2.12"
+  }
+}
