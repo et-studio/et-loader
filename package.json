@@ -1,6 +1,6 @@
 {
   "name": "et-loader",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Webpack loader for et-template",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/et-studio/et-loader#readme",
   "dependencies": {
-    "et-template": "^0.3.7",
+    "et-template": "^0.4.0",
     "loader-utils": "^0.2.12"
   }
 }
